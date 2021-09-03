@@ -1,6 +1,6 @@
 console.log("hello");
 
-const api = "0d057a79695ce2321975cbdc3ddfb7a5";
+const api = "*********95ce2321975cbdc3ddfb7a5";
 
 // Openweathermap API. Do not share it publicly.
 
